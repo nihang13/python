@@ -1,2 +1,2 @@
 # python
-My journey in python.
+My journey in python as python developer
