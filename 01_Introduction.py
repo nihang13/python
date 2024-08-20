@@ -29,11 +29,12 @@ iii)Docstrings:
 
 Syntax:
 Set of rules that defines the structure of valid statements and expressions in the language.
+In Python, f-strings (formatted string literals) provide a concise and readable way to include expressions inside string literals, using curly braces {}
 Use the "print" function to print the line "Hello, World!".
 '''
 
 print("Hello, World")
-
+print(f"Hello, World") #using fstring
 '''
 Indentation:
 Python uses indentation for blocks, instead of curly braces. Both tabs and spaces are supported,
