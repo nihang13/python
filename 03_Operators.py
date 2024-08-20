@@ -153,8 +153,8 @@ print(c>> 2) # 15 (0000 1111)
 d = [1, 2, 3]
 e = d
 f = [1, 2, 3]
-print(d is e)      # True
-print(d is f)      # False
+print(d is e)  # memory location tracker    # True
+print(d is f)  # exact value/ equilateral operator   # False
 print(d is not f)  # True
 
 # Membership Operators:
