@@ -1,5 +1,5 @@
 '''
-In python, we can take user input directly ny using input() function.
+In python, we can take user input directly by using input() function.
 This function gives a return value as string/characters hence to pass that into a variable.
 
 Syntax:
